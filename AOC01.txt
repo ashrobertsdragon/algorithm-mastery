@@ -1,0 +1,12 @@
+starting point = 50
+left decreases number
+right decreases number
+0 = 100
+list of values in format of L/R<Number>
+
+- need to split the string to get letter and number. use map to convert letter to mathematical operation
+- need to normalize answer. use modulo
+
+number of times dial crosses zero
+
+- use divmod to get integer of times crossed (need to normalize positive/negative) and modulo of times stopped
