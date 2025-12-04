@@ -2,7 +2,7 @@ import math
 from collections.abc import Callable, Generator
 from itertools import accumulate
 
-P1_SAMPLE = answer = 3
+P1_SAMPLE = 3
 P1 = 969
 P2_SAMPLE = 6
 
