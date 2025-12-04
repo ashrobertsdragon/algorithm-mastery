@@ -9,3 +9,10 @@ total is sum
 818181911112111 = 92
 
 sum = 357
+
+part 2:
+12 digit number
+987654321111 + 811111111119 + 434234234278 + 888911112111 = 3121910778619
+
+monotonic decreasing stack
+to get k largest digits, remove n smallest digits.
