@@ -1,0 +1,11 @@
+line of digits = bank of batteries of a specific "joltage"
+turn on 2 batteries. joltage is the number created by the digits. 2 & 4 is 24
+find largest joltage possible for each bank
+total is sum
+
+987654321111111 = 98
+811111111111119 = 89
+234234234234278 = 78
+818181911112111 = 92
+
+sum = 357
