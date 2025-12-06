@@ -162,3 +162,11 @@ sum = 43
 niave approach: iterate over part 1 and remove x positions until no more remain.
 better approach: island counting? DFS to count not just how many neighbors, but how many neighbors the neighbors have. Instead of replacing with x, replace with integer
 probably some algorithm that converts those integers into
+
+**degenerate algorithm**
+k-core peeling
+
+- @ - node
+- neighbor relationships - edges
+- max rolls - degree threshold
+
